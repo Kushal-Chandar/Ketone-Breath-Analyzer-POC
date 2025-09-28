@@ -31,7 +31,11 @@ Built with Arduino, a TGS1820 acetone gas sensor, and an OLED display.
 
 ### Baseline
 
+https://github.com/user-attachments/assets/172d2ecf-c5a6-4a13-9daf-6da9f5873a9b
+
 ### 7 - Hours Fasted
+
+https://github.com/user-attachments/assets/7c5e421a-6375-4cd8-abc9-aa768ac0b25f
 
 ## Limitations
 
@@ -39,7 +43,7 @@ Built with Arduino, a TGS1820 acetone gas sensor, and an OLED display.
 - Limited calibration dataset (approximate, suitable for prototyping only)
 - Intended for demonstration and educational use, not medical use
 
-<p  align="center"> <img alt="device" src="assets/device.jpg" width="360"></p>
+<p  align="center"> <img alt="device" src="assets/device.JPG" width="360"></p>
 
 ## Hardware
 
